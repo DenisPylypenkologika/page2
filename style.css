@@ -1,0 +1,16 @@
+header{
+background-color: 	#bfcc07	;
+text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+  background-color: 	#e5ff00	;
+}
+footer{
+ background-color: 	#bfcc07	;
+}
+table, td{
+  border:1px dashed #e5ff00;
+  background-color: yellowgreen;
+}
